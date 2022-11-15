@@ -249,7 +249,7 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{dedicated}: smashneon3d.keystore'
+  AndroidKeystoreName: '{dedicated}: Desktop/smashneon3d.keystore'
   AndroidKeyaliasName: smashneon3d
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
